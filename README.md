@@ -2,4 +2,4 @@
 ##### tags
 #readme
 #publish
-#sharedBy_matthiasWeigtTopublic
+#sharedBy_matthiasWeigt
